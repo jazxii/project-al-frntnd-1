@@ -1,2 +1,3 @@
-# AI frontend design
-SOCKET IO based streaming service called StremONCE
+# AI frontend design for 
+SOCKET IO based streaming service called 
+## StreamONCE
